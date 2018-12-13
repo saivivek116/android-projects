@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="action_settings">settings</string>
+    <string name="search">search</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavouriteMovies</string>
+    <string-array name="movies">
+        <item>Pokiri</item>
+        <item>Srimanthudu</item>
+        <item>SVSC</item>
+        <item>Athadu</item>
+        <item>BHARATH ANE NENU</item>
+    </string-array>
+</resources>

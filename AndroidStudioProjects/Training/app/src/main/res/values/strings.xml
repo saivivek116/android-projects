@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string-array name="spinner_items">
+        <item>icecream</item>
+        <item>pastry</item>
+        <item>milkshake</item>
+        <item>juice</item>
+    </string-array>
+</resources>
